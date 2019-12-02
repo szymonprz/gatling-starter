@@ -6,10 +6,6 @@ Starter for performance test runing on gatling with sbt plugin
 * Building Fat JAR to run performance test from separate environment without need run it from sbt 
 * Providing external configuration of performance tests from ENV variables e.g. -DUSERS=10
 
-## Installation 
-
-Install from [idea plugins marketplace](https://plugins.jetbrains.com/plugin/11942-cheat-sh-code-snippets) 
-
 ## Usage
 
 ### Run from SBT
